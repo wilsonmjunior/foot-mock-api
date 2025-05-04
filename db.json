@@ -120,252 +120,164 @@
     }
   ],
   "live-matches": [
-      {
-        "id": "match001",
-        "homeTeam": {
-          "name": "Barcelona",
-          "logo": "/api/placeholder/100/100?text=Barcelona",
-          "score": 2
-        },
-        "awayTeam": {
-          "name": "Real Madrid",
-          "logo": "/api/placeholder/100/100?text=Real_Madrid",
-          "score": 1
-        },
-        "status": {
-          "isLive": true,
-          "period": "2º Tempo",
-          "minute": 67,
-          "additionalTime": 0
-        },
-        "competition": {
-          "name": "La Liga",
-          "logo": "/api/placeholder/60/60?text=LaLiga"
-        },
-        "stadium": "Camp Nou",
-        "date": "2025-05-03T15:00:00Z",
-        "scorers": [
-          {
-            "player": "Robert Lewandowski",
-            "team": "Barcelona",
-            "minute": 23,
-            "isOwnGoal": false,
-            "isPenalty": false
-          },
-          {
-            "player": "Kylian Mbappé",
-            "team": "Real Madrid",
-            "minute": 45,
-            "isOwnGoal": false,
-            "isPenalty": true
-          },
-          {
-            "player": "Pedri",
-            "team": "Barcelona",
-            "minute": 58,
-            "isOwnGoal": false,
-            "isPenalty": false
-          }
-        ]
+    {
+      "id": "match001",
+      "homeTeam": {
+        "name": "Barcelona",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/241.png?v=23",
+        "score": 2
       },
-      {
-        "id": "match002",
-        "homeTeam": {
-          "name": "Manchester City",
-          "logo": "/api/placeholder/100/100?text=Man_City",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Liverpool",
-          "logo": "/api/placeholder/100/100?text=Liverpool",
-          "score": 2
-        },
-        "status": {
-          "isLive": true,
-          "period": "2º Tempo",
-          "minute": 82,
-          "additionalTime": 3
-        },
-        "competition": {
-          "name": "Premier League",
-          "logo": "/api/placeholder/60/60?text=Premier"
-        },
-        "stadium": "Etihad Stadium",
-        "date": "2025-05-03T14:30:00Z",
-        "scorers": [
-          {
-            "player": "Mohamed Salah",
-            "team": "Liverpool",
-            "minute": 12,
-            "isOwnGoal": false,
-            "isPenalty": false
-          },
-          {
-            "player": "Erling Haaland",
-            "team": "Manchester City",
-            "minute": 27,
-            "isOwnGoal": false,
-            "isPenalty": false
-          },
-          {
-            "player": "Phil Foden",
-            "team": "Manchester City",
-            "minute": 44,
-            "isOwnGoal": false,
-            "isPenalty": false
-          },
-          {
-            "player": "Kevin De Bruyne",
-            "team": "Manchester City",
-            "minute": 63,
-            "isOwnGoal": false,
-            "isPenalty": false
-          },
-          {
-            "player": "Darwin Núñez",
-            "team": "Liverpool",
-            "minute": 75,
-            "isOwnGoal": false,
-            "isPenalty": false
-          }
-        ]
+      "awayTeam": {
+        "name": "Real Madrid",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+        "score": 1
       },
-      {
-        "id": "match003",
-        "homeTeam": {
-          "name": "Bayern Munich",
-          "logo": "/api/placeholder/100/100?text=Bayern",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Borussia Dortmund",
-          "logo": "/api/placeholder/100/100?text=Dortmund",
-          "score": 0
-        },
-        "status": {
-          "isLive": true,
-          "period": "1º Tempo",
-          "minute": 36,
-          "additionalTime": 0
-        },
-        "competition": {
-          "name": "Bundesliga",
-          "logo": "/api/placeholder/60/60?text=Bundesliga"
-        },
-        "stadium": "Allianz Arena",
-        "date": "2025-05-03T16:30:00Z",
-        "scorers": [
-          {
-            "player": "Harry Kane",
-            "team": "Bayern Munich",
-            "minute": 18,
-            "isOwnGoal": false,
-            "isPenalty": true
-          }
-        ]
-      }
-    ],
-    "upcoming-matches": [
-      {
-        "id": "match004",
-        "homeTeam": {
-          "name": "Inter Milan",
-          "logo": "/api/placeholder/100/100?text=Inter"
-        },
-        "awayTeam": {
-          "name": "AC Milan",
-          "logo": "/api/placeholder/100/100?text=Milan"
-        },
-        "status": {
-          "isLive": false
-        },
-        "competition": {
-          "name": "Serie A",
-          "logo": "/api/placeholder/60/60?text=SerieA"
-        },
-        "stadium": "San Siro",
-        "date": "2025-05-03T19:45:00Z"
+      "status": {
+        "isLive": true,
+        "period": "2º Tempo",
+        "minute": 67,
+        "additionalTime": 0
       },
-      {
-        "id": "match005",
-        "homeTeam": {
-          "name": "PSG",
-          "logo": "/api/placeholder/100/100?text=PSG"
-        },
-        "awayTeam": {
-          "name": "Marseille",
-          "logo": "/api/placeholder/100/100?text=Marseille"
-        },
-        "status": {
-          "isLive": false
-        },
-        "competition": {
-          "name": "Ligue 1",
-          "logo": "/api/placeholder/60/60?text=Ligue1"
-        },
-        "stadium": "Parc des Princes",
-        "date": "2025-05-03T20:00:00Z"
+      "competition": { "name": "La Liga", "logo": "/api/placeholder/60/60?text=LaLiga" },
+      "stadium": "Camp Nou",
+      "date": "2025-05-03T15:00:00Z",
+      "scorers": [
+        { "player": "Robert Lewandowski", "team": "Barcelona", "minute": 23, "isOwnGoal": false, "isPenalty": false },
+        { "player": "Kylian Mbappé", "team": "Real Madrid", "minute": 45, "isOwnGoal": false, "isPenalty": true },
+        { "player": "Pedri", "team": "Barcelona", "minute": 58, "isOwnGoal": false, "isPenalty": false }
+      ]
+    },
+    {
+      "id": "match002",
+      "homeTeam": {
+        "name": "Manchester City",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+        "score": 3
       },
-      {
-        "id": "match006",
-        "homeTeam": {
-          "name": "Arsenal",
-          "logo": "/api/placeholder/100/100?text=Arsenal"
-        },
-        "awayTeam": {
-          "name": "Chelsea",
-          "logo": "/api/placeholder/100/100?text=Chelsea"
-        },
-        "status": {
-          "isLive": false
-        },
-        "competition": {
-          "name": "Premier League",
-          "logo": "/api/placeholder/60/60?text=Premier"
-        },
-        "stadium": "Emirates Stadium",
-        "date": "2025-05-04T15:00:00Z"
+      "awayTeam": {
+        "name": "Liverpool",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+        "score": 2
       },
-      {
-        "id": "match007",
-        "homeTeam": {
-          "name": "Atletico Madrid",
-          "logo": "/api/placeholder/100/100?text=Atletico"
-        },
-        "awayTeam": {
-          "name": "Sevilla",
-          "logo": "/api/placeholder/100/100?text=Sevilla"
-        },
-        "status": {
-          "isLive": false
-        },
-        "competition": {
-          "name": "La Liga",
-          "logo": "/api/placeholder/60/60?text=LaLiga"
-        },
-        "stadium": "Wanda Metropolitano",
-        "date": "2025-05-04T17:30:00Z"
+      "status": {
+        "isLive": true,
+        "period": "2º Tempo",
+        "minute": 82,
+        "additionalTime": 3
       },
-      {
-        "id": "match008",
-        "homeTeam": {
-          "name": "Juventus",
-          "logo": "/api/placeholder/100/100?text=Juventus"
-        },
-        "awayTeam": {
-          "name": "Roma",
-          "logo": "/api/placeholder/100/100?text=Roma"
-        },
-        "status": {
-          "isLive": false
-        },
-        "competition": {
-          "name": "Serie A",
-          "logo": "/api/placeholder/60/60?text=SerieA"
-        },
-        "stadium": "Allianz Stadium",
-        "date": "2025-05-04T19:45:00Z"
-      }
+      "competition": { "name": "Premier League", "logo": "/api/placeholder/60/60?text=Premier" },
+      "stadium": "Etihad Stadium",
+      "date": "2025-05-03T14:30:00Z",
+      "scorers": [
+        { "player": "Mohamed Salah", "team": "Liverpool", "minute": 12, "isOwnGoal": false, "isPenalty": false },
+        { "player": "Erling Haaland", "team": "Manchester City", "minute": 27, "isOwnGoal": false, "isPenalty": false },
+        { "player": "Phil Foden", "team": "Manchester City", "minute": 44, "isOwnGoal": false, "isPenalty": false },
+        { "player": "Kevin De Bruyne", "team": "Manchester City", "minute": 63, "isOwnGoal": false, "isPenalty": false },
+        { "player": "Darwin Núñez", "team": "Liverpool", "minute": 75, "isOwnGoal": false, "isPenalty": false }
+      ]
+    },
+    {
+      "id": "match003",
+      "homeTeam": {
+        "name": "Bayern Munich",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/21.png?v=23",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Borussia Dortmund",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/22.png?v=23",
+        "score": 0
+      },
+      "status": {
+        "isLive": true,
+        "period": "1º Tempo",
+        "minute": 36,
+        "additionalTime": 0
+      },
+      "competition": { "name": "Bundesliga", "logo": "/api/placeholder/60/60?text=Bundesliga" },
+      "stadium": "Allianz Arena",
+      "date": "2025-05-03T16:30:00Z",
+      "scorers": [
+        { "player": "Harry Kane", "team": "Bayern Munich", "minute": 18, "isOwnGoal": false, "isPenalty": true }
+      ]
+    }
+  ],
+  "upcoming-matches": [
+    {
+      "id": "match004",
+      "homeTeam": {
+        "name": "Inter Milan",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/44.png?v=23"
+      },
+      "awayTeam": {
+        "name": "AC Milan",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/47.png?v=23"
+      },
+      "status": { "isLive": false },
+      "competition": { "name": "Serie A", "logo": "/api/placeholder/60/60?text=SerieA" },
+      "stadium": "San Siro",
+      "date": "2025-05-03T19:45:00Z"
+    },
+    {
+      "id": "match005",
+      "homeTeam": {
+        "name": "PSG",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/73.png?v=23"
+      },
+      "awayTeam": {
+        "name": "Marseille",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/219.png?v=23"
+      },
+      "status": { "isLive": false },
+      "competition": { "name": "Ligue 1", "logo": "/api/placeholder/60/60?text=Ligue1" },
+      "stadium": "Parc des Princes",
+      "date": "2025-05-03T20:00:00Z"
+    },
+    {
+      "id": "match006",
+      "homeTeam": {
+        "name": "Arsenal",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/1.png?v=23"
+      },
+      "awayTeam": {
+        "name": "Chelsea",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/5.png?v=23"
+      },
+      "status": { "isLive": false },
+      "competition": { "name": "Premier League", "logo": "/api/placeholder/60/60?text=Premier" },
+      "stadium": "Emirates Stadium",
+      "date": "2025-05-04T15:00:00Z"
+    },
+    {
+      "id": "match007",
+      "homeTeam": {
+        "name": "Atletico Madrid",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/240.png?v=23"
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/481.png?v=23"
+      },
+      "status": { "isLive": false },
+      "competition": { "name": "La Liga", "logo": "/api/placeholder/60/60?text=LaLiga" },
+      "stadium": "Wanda Metropolitano",
+      "date": "2025-05-04T17:30:00Z"
+    },
+    {
+      "id": "match008",
+      "homeTeam": {
+        "name": "Juventus",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/45.png?v=23"
+      },
+      "awayTeam": {
+        "name": "Roma",
+        "logo": "https://www.futbin.com/content/fifa23/img/clubs/52.png?v=23"
+      },
+      "status": { "isLive": false },
+      "competition": { "name": "Serie A", "logo": "/api/placeholder/60/60?text=SerieA" },
+      "stadium": "Allianz Stadium",
+      "date": "2025-05-04T19:45:00Z"
+    }
   ],
   "ranking-players": [
     {
