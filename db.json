@@ -1,0 +1,774 @@
+{
+  "teams": [
+    {
+      "id": "1",
+      "name": "Juniors FC 1",
+      "totalRating": 72,
+      "shield": "https://www.teste.com/hdhdh.png",
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "rating": 9850,
+          "position": 1,
+          "team": "Inter Miami CF",
+          "fieldPosition": "Atacante",
+          "image": "https://www.futbin.com/content/fifa23/img/players/158023.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/112658.png?v=23",
+          "id": "2916"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "rating": 9320,
+          "position": 2,
+          "team": "Real Madrid",
+          "fieldPosition": "Atacante",
+          "image": "https://www.futbin.com/content/fifa23/img/players/231747.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+          "id": "ca82"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "rating": 8720,
+          "position": 4,
+          "team": "Manchester City",
+          "fieldPosition": "Meio‑campista",
+          "image": "https://www.futbin.com/content/fifa23/img/players/192985.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+          "id": "b878"
+        },
+        {
+          "name": "Rodri",
+          "rating": 8230,
+          "position": 6,
+          "team": "Manchester City",
+          "fieldPosition": "Meio‑campista",
+          "image": "https://www.futbin.com/content/fifa23/img/players/231866.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+          "id": "d11b"
+        },
+        {
+          "name": "Mohamed Salah",
+          "rating": 7850,
+          "position": 8,
+          "team": "Liverpool",
+          "fieldPosition": "Atacante",
+          "image": "https://www.futbin.com/content/fifa23/img/players/209331.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+          "id": "ffb6"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "rating": 7390,
+          "position": 10,
+          "team": "Inter Milan",
+          "fieldPosition": "Atacante",
+          "image": "https://www.futbin.com/content/fifa23/img/players/231478.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/44.png?v=23",
+          "id": "b49e"
+        },
+        {
+          "name": "Robert Lewandowski",
+          "rating": 7180,
+          "position": 12,
+          "team": "Barcelona",
+          "fieldPosition": "Atacante",
+          "image": "https://www.futbin.com/content/fifa23/img/players/188545.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/241.png?v=23",
+          "id": "77ca"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "rating": 6930,
+          "position": 14,
+          "team": "Manchester United",
+          "fieldPosition": "Meio‑campista",
+          "image": "https://www.futbin.com/content/fifa23/img/players/212198.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/11.png?v=23",
+          "id": "6bb8"
+        },
+        {
+          "name": "Martin Ødegaard",
+          "rating": 6720,
+          "position": 16,
+          "team": "Arsenal",
+          "fieldPosition": "Meio‑campista",
+          "image": "https://www.futbin.com/content/fifa23/img/players/222665.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/1.png?v=23",
+          "id": "d72e"
+        },
+        {
+          "name": "Virgil van Dijk",
+          "rating": 6580,
+          "position": 17,
+          "team": "Liverpool",
+          "fieldPosition": "Zagueiro",
+          "image": "https://www.futbin.com/content/fifa23/img/players/203376.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+          "id": "904b"
+        },
+        {
+          "name": "Alisson Becker",
+          "rating": 6810,
+          "position": 15,
+          "team": "Liverpool",
+          "fieldPosition": "Goleiro",
+          "image": "https://www.futbin.com/content/fifa23/img/players/212831.png?v=23",
+          "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+          "id": "b8f8"
+        }
+      ]
+    }
+  ],
+  "live-matches": [
+      {
+        "id": "match001",
+        "homeTeam": {
+          "name": "Barcelona",
+          "logo": "/api/placeholder/100/100?text=Barcelona",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Real Madrid",
+          "logo": "/api/placeholder/100/100?text=Real_Madrid",
+          "score": 1
+        },
+        "status": {
+          "isLive": true,
+          "period": "2º Tempo",
+          "minute": 67,
+          "additionalTime": 0
+        },
+        "competition": {
+          "name": "La Liga",
+          "logo": "/api/placeholder/60/60?text=LaLiga"
+        },
+        "stadium": "Camp Nou",
+        "date": "2025-05-03T15:00:00Z",
+        "scorers": [
+          {
+            "player": "Robert Lewandowski",
+            "team": "Barcelona",
+            "minute": 23,
+            "isOwnGoal": false,
+            "isPenalty": false
+          },
+          {
+            "player": "Kylian Mbappé",
+            "team": "Real Madrid",
+            "minute": 45,
+            "isOwnGoal": false,
+            "isPenalty": true
+          },
+          {
+            "player": "Pedri",
+            "team": "Barcelona",
+            "minute": 58,
+            "isOwnGoal": false,
+            "isPenalty": false
+          }
+        ]
+      },
+      {
+        "id": "match002",
+        "homeTeam": {
+          "name": "Manchester City",
+          "logo": "/api/placeholder/100/100?text=Man_City",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Liverpool",
+          "logo": "/api/placeholder/100/100?text=Liverpool",
+          "score": 2
+        },
+        "status": {
+          "isLive": true,
+          "period": "2º Tempo",
+          "minute": 82,
+          "additionalTime": 3
+        },
+        "competition": {
+          "name": "Premier League",
+          "logo": "/api/placeholder/60/60?text=Premier"
+        },
+        "stadium": "Etihad Stadium",
+        "date": "2025-05-03T14:30:00Z",
+        "scorers": [
+          {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "minute": 12,
+            "isOwnGoal": false,
+            "isPenalty": false
+          },
+          {
+            "player": "Erling Haaland",
+            "team": "Manchester City",
+            "minute": 27,
+            "isOwnGoal": false,
+            "isPenalty": false
+          },
+          {
+            "player": "Phil Foden",
+            "team": "Manchester City",
+            "minute": 44,
+            "isOwnGoal": false,
+            "isPenalty": false
+          },
+          {
+            "player": "Kevin De Bruyne",
+            "team": "Manchester City",
+            "minute": 63,
+            "isOwnGoal": false,
+            "isPenalty": false
+          },
+          {
+            "player": "Darwin Núñez",
+            "team": "Liverpool",
+            "minute": 75,
+            "isOwnGoal": false,
+            "isPenalty": false
+          }
+        ]
+      },
+      {
+        "id": "match003",
+        "homeTeam": {
+          "name": "Bayern Munich",
+          "logo": "/api/placeholder/100/100?text=Bayern",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Borussia Dortmund",
+          "logo": "/api/placeholder/100/100?text=Dortmund",
+          "score": 0
+        },
+        "status": {
+          "isLive": true,
+          "period": "1º Tempo",
+          "minute": 36,
+          "additionalTime": 0
+        },
+        "competition": {
+          "name": "Bundesliga",
+          "logo": "/api/placeholder/60/60?text=Bundesliga"
+        },
+        "stadium": "Allianz Arena",
+        "date": "2025-05-03T16:30:00Z",
+        "scorers": [
+          {
+            "player": "Harry Kane",
+            "team": "Bayern Munich",
+            "minute": 18,
+            "isOwnGoal": false,
+            "isPenalty": true
+          }
+        ]
+      }
+    ],
+    "upcoming-matches": [
+      {
+        "id": "match004",
+        "homeTeam": {
+          "name": "Inter Milan",
+          "logo": "/api/placeholder/100/100?text=Inter"
+        },
+        "awayTeam": {
+          "name": "AC Milan",
+          "logo": "/api/placeholder/100/100?text=Milan"
+        },
+        "status": {
+          "isLive": false
+        },
+        "competition": {
+          "name": "Serie A",
+          "logo": "/api/placeholder/60/60?text=SerieA"
+        },
+        "stadium": "San Siro",
+        "date": "2025-05-03T19:45:00Z"
+      },
+      {
+        "id": "match005",
+        "homeTeam": {
+          "name": "PSG",
+          "logo": "/api/placeholder/100/100?text=PSG"
+        },
+        "awayTeam": {
+          "name": "Marseille",
+          "logo": "/api/placeholder/100/100?text=Marseille"
+        },
+        "status": {
+          "isLive": false
+        },
+        "competition": {
+          "name": "Ligue 1",
+          "logo": "/api/placeholder/60/60?text=Ligue1"
+        },
+        "stadium": "Parc des Princes",
+        "date": "2025-05-03T20:00:00Z"
+      },
+      {
+        "id": "match006",
+        "homeTeam": {
+          "name": "Arsenal",
+          "logo": "/api/placeholder/100/100?text=Arsenal"
+        },
+        "awayTeam": {
+          "name": "Chelsea",
+          "logo": "/api/placeholder/100/100?text=Chelsea"
+        },
+        "status": {
+          "isLive": false
+        },
+        "competition": {
+          "name": "Premier League",
+          "logo": "/api/placeholder/60/60?text=Premier"
+        },
+        "stadium": "Emirates Stadium",
+        "date": "2025-05-04T15:00:00Z"
+      },
+      {
+        "id": "match007",
+        "homeTeam": {
+          "name": "Atletico Madrid",
+          "logo": "/api/placeholder/100/100?text=Atletico"
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "logo": "/api/placeholder/100/100?text=Sevilla"
+        },
+        "status": {
+          "isLive": false
+        },
+        "competition": {
+          "name": "La Liga",
+          "logo": "/api/placeholder/60/60?text=LaLiga"
+        },
+        "stadium": "Wanda Metropolitano",
+        "date": "2025-05-04T17:30:00Z"
+      },
+      {
+        "id": "match008",
+        "homeTeam": {
+          "name": "Juventus",
+          "logo": "/api/placeholder/100/100?text=Juventus"
+        },
+        "awayTeam": {
+          "name": "Roma",
+          "logo": "/api/placeholder/100/100?text=Roma"
+        },
+        "status": {
+          "isLive": false
+        },
+        "competition": {
+          "name": "Serie A",
+          "logo": "/api/placeholder/60/60?text=SerieA"
+        },
+        "stadium": "Allianz Stadium",
+        "date": "2025-05-04T19:45:00Z"
+      }
+  ],
+  "ranking-players": [
+    {
+      "name": "Lionel Messi",
+      "rating": 9850,
+      "position": 1,
+      "team": "Inter Miami CF",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/158023.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/112658.png?v=23",
+      "id": "2916"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "rating": 9320,
+      "position": 2,
+      "team": "Real Madrid",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/231747.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "ca82"
+    },
+    {
+      "name": "Erling Haaland",
+      "rating": 9120,
+      "position": 3,
+      "team": "Manchester City",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/239085.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "c6cf"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "rating": 8720,
+      "position": 4,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/192985.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "b878"
+    },
+    {
+      "name": "Vinicius Jr.",
+      "rating": 8450,
+      "position": 5,
+      "team": "Real Madrid",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/238794.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "38d2"
+    },
+    {
+      "name": "Rodri",
+      "rating": 8230,
+      "position": 6,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/231866.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "d11b"
+    },
+    {
+      "name": "Jude Bellingham",
+      "rating": 7980,
+      "position": 7,
+      "team": "Real Madrid",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/252371.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "42e4"
+    },
+    {
+      "name": "Mohamed Salah",
+      "rating": 7850,
+      "position": 8,
+      "team": "Liverpool",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/209331.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+      "id": "ffb6"
+    },
+    {
+      "name": "Harry Kane",
+      "rating": 7640,
+      "position": 9,
+      "team": "Bayern Munich",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/202126.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/21.png?v=23",
+      "id": "79d3"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "rating": 7390,
+      "position": 10,
+      "team": "Inter Milan",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/231478.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/44.png?v=23",
+      "id": "b49e"
+    },
+    {
+      "name": "Phil Foden",
+      "rating": 7240,
+      "position": 11,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/237692.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "2601"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "rating": 7180,
+      "position": 12,
+      "team": "Barcelona",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/188545.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/241.png?v=23",
+      "id": "77ca"
+    },
+    {
+      "name": "Bukayo Saka",
+      "rating": 7050,
+      "position": 13,
+      "team": "Arsenal",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/246669.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/1.png?v=23",
+      "id": "56dc"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "rating": 6930,
+      "position": 14,
+      "team": "Manchester United",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/212198.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/11.png?v=23",
+      "id": "6bb8"
+    },
+    {
+      "name": "Alisson Becker",
+      "rating": 6810,
+      "position": 15,
+      "team": "Liverpool",
+      "fieldPosition": "Goleiro",
+      "image": "https://www.futbin.com/content/fifa23/img/players/212831.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+      "id": "b8f8"
+    },
+    {
+      "name": "Martin Ødegaard",
+      "rating": 6720,
+      "position": 16,
+      "team": "Arsenal",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/222665.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/1.png?v=23",
+      "id": "d72e"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "rating": 6580,
+      "position": 17,
+      "team": "Liverpool",
+      "fieldPosition": "Zagueiro",
+      "image": "https://www.futbin.com/content/fifa23/img/players/203376.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+      "id": "904b"
+    },
+    {
+      "name": "Bernardo Silva",
+      "rating": 6450,
+      "position": 18,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/218667.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "d027"
+    },
+    {
+      "name": "Rodrygo",
+      "rating": 6300,
+      "position": 19,
+      "team": "Real Madrid",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/243812.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "ce42"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "rating": 6180,
+      "position": 20,
+      "team": "Real Madrid",
+      "fieldPosition": "Goleiro",
+      "image": "https://www.futbin.com/content/fifa23/img/players/192119.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "2327"
+    }
+  ],
+  "available-players": [
+    {
+      "name": "Lionel Messi",
+      "rating": 9850,
+      "position": 1,
+      "team": "Inter Miami CF",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/158023.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/112658.png?v=23",
+      "id": "2916"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "rating": 9320,
+      "position": 2,
+      "team": "Real Madrid",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/231747.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "ca82"
+    },
+    {
+      "name": "Erling Haaland",
+      "rating": 9120,
+      "position": 3,
+      "team": "Manchester City",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/239085.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "c6cf"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "rating": 8720,
+      "position": 4,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/192985.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "b878"
+    },
+    {
+      "name": "Vinicius Jr.",
+      "rating": 8450,
+      "position": 5,
+      "team": "Real Madrid",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/238794.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "38d2"
+    },
+    {
+      "name": "Rodri",
+      "rating": 8230,
+      "position": 6,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/231866.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "d11b"
+    },
+    {
+      "name": "Jude Bellingham",
+      "rating": 7980,
+      "position": 7,
+      "team": "Real Madrid",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/252371.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "42e4"
+    },
+    {
+      "name": "Mohamed Salah",
+      "rating": 7850,
+      "position": 8,
+      "team": "Liverpool",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/209331.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+      "id": "ffb6"
+    },
+    {
+      "name": "Harry Kane",
+      "rating": 7640,
+      "position": 9,
+      "team": "Bayern Munich",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/202126.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/21.png?v=23",
+      "id": "79d3"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "rating": 7390,
+      "position": 10,
+      "team": "Inter Milan",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/231478.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/44.png?v=23",
+      "id": "b49e"
+    },
+    {
+      "name": "Phil Foden",
+      "rating": 7240,
+      "position": 11,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/237692.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "2601"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "rating": 7180,
+      "position": 12,
+      "team": "Barcelona",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/188545.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/241.png?v=23",
+      "id": "77ca"
+    },
+    {
+      "name": "Bukayo Saka",
+      "rating": 7050,
+      "position": 13,
+      "team": "Arsenal",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/246669.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/1.png?v=23",
+      "id": "56dc"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "rating": 6930,
+      "position": 14,
+      "team": "Manchester United",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/212198.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/11.png?v=23",
+      "id": "6bb8"
+    },
+    {
+      "name": "Alisson Becker",
+      "rating": 6810,
+      "position": 15,
+      "team": "Liverpool",
+      "fieldPosition": "Goleiro",
+      "image": "https://www.futbin.com/content/fifa23/img/players/212831.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+      "id": "b8f8"
+    },
+    {
+      "name": "Martin Ødegaard",
+      "rating": 6720,
+      "position": 16,
+      "team": "Arsenal",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/222665.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/1.png?v=23",
+      "id": "d72e"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "rating": 6580,
+      "position": 17,
+      "team": "Liverpool",
+      "fieldPosition": "Zagueiro",
+      "image": "https://www.futbin.com/content/fifa23/img/players/203376.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/9.png?v=23",
+      "id": "904b"
+    },
+    {
+      "name": "Bernardo Silva",
+      "rating": 6450,
+      "position": 18,
+      "team": "Manchester City",
+      "fieldPosition": "Meio‑campista",
+      "image": "https://www.futbin.com/content/fifa23/img/players/218667.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/10.png?v=23",
+      "id": "d027"
+    },
+    {
+      "name": "Rodrygo",
+      "rating": 6300,
+      "position": 19,
+      "team": "Real Madrid",
+      "fieldPosition": "Atacante",
+      "image": "https://www.futbin.com/content/fifa23/img/players/243812.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "ce42"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "rating": 6180,
+      "position": 20,
+      "team": "Real Madrid",
+      "fieldPosition": "Goleiro",
+      "image": "https://www.futbin.com/content/fifa23/img/players/192119.png?v=23",
+      "clubImage": "https://www.futbin.com/content/fifa23/img/clubs/243.png?v=23",
+      "id": "2327"
+    }
+  ]
+}
