@@ -7,6 +7,7 @@
     "start": "node api/server.js"
   },
   "dependencies": {
+    "@vercel/kv": "^3.0.0",
     "json-server": "^0.17.4"
   }
 }
